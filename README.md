@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saifur Rehman Mev
-- 👀 I’m interested in Frontend Development | Figma 
+- 👀 I’m interested in Frontend Development 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript | Frontend projects
 - 📫 How to reach me email:- mevsaifurrehman@gmail.com
