@@ -1,13 +1,27 @@
+<table>
+  <tr>
+    <td>
 
-<h1 align="center">Hi 👋, I'm Saifur Rehman Mev</h1>
+<h1>Hi 👋, I'm Saifur Rehman Mev</h1>
 
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3>A passionate Full-Stack Developer from India</h3>
 
- <ul>
-        <li>🌱 I’m currently learning Next.js & Prisma</li>
-        <li>💬 Ask me about MERN, React, TypeScript</li>
-        <li>📫 How to reach me: saifurrehmanmev@gmail.com</li>
-      </ul>
+<ul>
+  <li>🌱 I’m currently learning <b>Next.js & Prisma</b></li>
+  <li>💬 Ask me about <b>React, TypeScript, Tailwind, MERN</b></li>
+  <li>📫 How to reach me: <b>saifurrehmanmev@gmail.com</b></li>
+</ul>
+
+</td>
+
+<td>
+
+<img src="https://camo.githubusercontent.com/fc5027899b615dcc469d2c2936f0f835bc2c057614fb46c83bd66ec79edf8a1b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f37656437643563613037346234386233323831353065356132333165386431662e676966" width="280"/>
+
+</td>
+</tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 
