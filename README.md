@@ -1,14 +1,24 @@
-                                                                             Hi 👋, I'm Saifur Rehman Mev 
+<table>
+  <tr>
+    <td>
 
+      <h1 align="left">Hi 👋, I'm Saifur Rehman Mev</h1>
+      <h3 align="left">A passionate Full-Stack Developer from India</h3>
 
-A passionate Full-Stack developer from India                 
-                                                                       ![gif](https://github.com/user-attachments/assets/30480696-8491-436a-887e-4c0dd43f13c9)
-       
-- 🌱 I’m currently learning NextJS
+      <ul>
+        <li>🌱 I’m currently learning Next.js & Prisma</li>
+        <li>💬 Ask me about MERN, React, TypeScript</li>
+        <li>📫 How to reach me: saifurrehmanmev@gmail.com</li>
+      </ul>
 
-- 💬 Ask me about MERN
+    </td>
 
-- 📫 How to reach me saifurrehmanmev@gmail.com
+    <td>
+      <img src="IMAGE_LINK_HERE" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="left">Connect with me:</h3>
