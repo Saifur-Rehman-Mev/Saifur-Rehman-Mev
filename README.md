@@ -1,65 +1,72 @@
+<!-- HEADER SECTION -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=2AA8F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saifur+Rehman+Mev;Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+Next.js+Enthusiast;Love+to+build+cool+projects" />
+
+</div>
+
+---
+
 <table>
   <tr>
     <td>
 
-<h1>Hi 👋, I'm Saifur Rehman Mev</h1>
-
-<h3>A passionate Full-Stack Developer from India</h3>
+<h2>🚀 About Me</h2>
 
 <ul>
-  <li>🌱 I’m currently learning <b>Next.js & Prisma</b></li>
-  <li>💬 Ask me about <b>React, TypeScript, Tailwind, MERN</b></li>
-  <li>📫 How to reach me: <b>saifurrehmanmev@gmail.com</b></li>
+  <li>🌱 Currently learning <b>Next.js & Prisma</b></li>
+  <li>⚛️ Passionate about <b>React & Modern Web Dev</b></li>
+  <li>💬 Ask me about <b>MERN, Tailwind, TypeScript</b></li>
+  <li>📧 Reach me at: <b>saifurrehmanmev@gmail.com</b></li>
 </ul>
 
 </td>
 
 <td>
 
-<img src="https://camo.githubusercontent.com/fc5027899b615dcc469d2c2936f0f835bc2c057614fb46c83bd66ec79edf8a1b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f37656437643563613037346234386233323831353065356132333165386431662e676966" width="280"/>
+<img src="https://camo.githubusercontent.com/fc5027899b615dcc469d2c2936f0f835bc2c057614fb46c83bd66ec79edf8a1b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f37656437643563613037346234386233323831353065356132333165386431662e676966" width="270"/>
 
 </td>
-</tr>
+  </tr>
 </table>
 
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me
 
 <p align="left">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/saifur-rehman-mev-9384b6298/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="35" />
-  </a>
+<a href="https://www.linkedin.com/in/saifur-rehman-mev-9384b6298/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <!-- Portfolio -->
-  <a href="https://saifurrehmanportfolio.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="35" />
-  </a>
+<a href="https://saifurrehmanportfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-  <!-- Blogs -->
-  <a href="https://hashnode.com/@SaifurRehmanMev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hashnode.svg" width="35" />
-  </a>
+<a href="https://hashnode.com/@SaifurRehmanMev" target="_blank">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🛠 Tech Stack
 
 <p align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,mongodb,mysql,html,css,prisma" />
 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saifur-Rehman-Mev&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saifur-Rehman-Mev&theme=tokyonight" />
 </p>
 
 ---
@@ -72,9 +79,8 @@
 
 ---
 
-## 👁️ Visitor Count
+## 👁 Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saifur-Rehman-Mev&style=for-the-badge" />
 </p>
-
