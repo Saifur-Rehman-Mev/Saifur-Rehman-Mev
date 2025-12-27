@@ -49,14 +49,6 @@ A passionate Full-Stack developer from India
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
 
 </p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saifur-Rehman-Mev&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saifur-Rehman-Mev&theme=tokyonight" />
-</p>
 
 ---
 
