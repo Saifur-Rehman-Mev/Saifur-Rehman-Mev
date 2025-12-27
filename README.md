@@ -7,12 +7,9 @@
 
 ---
 
-<!-- ================= THEME BANNERS ================= -->
+<!-- ================= THEME BANNER ================= -->
 <div align="center">
-
-<!-- Dark -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=28" />
-
 </div>
 
 ---
@@ -36,7 +33,7 @@
 
 <td align="center" width="40%">
 
-<img src="https://camo.githubusercontent.com/fc5027899b615dcc469d2c2936f0f835bc2c057614fb46c83bd66ec79edf8a1b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f37656437643563613037346234386233323831353065356132333165386431662e676966" width="330"/>
+<img src="https://camo.githubusercontent.com/fc5027899b615dcc469d2c2936f0f835bc2c057614fb46c83bd66ec79edf8a1b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f37656437643563613037346234386233323831353065356132333165386431662e676966" width="340"/>
 
 </td>
 </tr>
@@ -53,102 +50,4 @@
 </a>
 
 <a href="https://saifurrehmanportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://hashnode.com/@SaifurRehmanMev">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Mastering **Next.js App Router**
-- 🧠 Improving **DSA + Problem Solving**
-- 📚 Learning **System Design basics**
-- 💼 Building real-world freelance projects
-- 🏗 Launching personal SaaS soon 😉
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,mongodb,mysql,prisma,git,github,vercel" />
-</p>
-
----
-
-## 🏆 Badges & Certifications
-
-<p>
-
-<img src="https://img.shields.io/badge/JavaScript-Developer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-Certified-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Frontend-Master-orange?style=for-the-badge"/>
-
-</p>
-
-> 🔔 Replace with real certificate links later if you want — I can add them.
-
----
-
-## 💼 Projects Showcase
-
-<table>
-<tr>
-<td>
-
-### 🔹 Portfolio Website  
-🚀 React + TypeScript + Tailwind  
-🔗 https://saifurrehmanportfolio.netlify.app/
-
-</td>
-
-<td>
-
-### 🔹 Blogs Platform  
-✍ Built on Hashnode  
-🔗 https://hashnode.com/@SaifurRehmanMev
-
-</td>
-</tr>
-</table>
-
----
-
-## 📱 Contact via QR
-
-<p align="center">
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=170x170&data=mailto:saifurrehmanmev@gmail.com" />
-</p>
-
-> 📧 Scan & email instantly
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saifur-Rehman-Mev&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Saifur-Rehman-Mev&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 👁 Visitor Count
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Saifur-Rehman-Mev&style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Portfo
