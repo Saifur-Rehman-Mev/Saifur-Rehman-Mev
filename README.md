@@ -50,3 +50,19 @@ A passionate Full-Stack developer from India
 
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saifur-Rehman-Mev&style=for-the-badge" />
+</p>
+
